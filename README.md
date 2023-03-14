@@ -2,7 +2,7 @@
 
 Corpus y resultados del análisis estilométrico de <i>Amor es más laberinto</i>, escrito en co-autoría por Sor Juana Inés de la Cruz y Fray Juan de Guevara. Prueba con el método Rolling Classify (Eder, 2016).
 
-##Cómo citar
+## Cómo citar
 
 Este análisis forma parte del siguiente artículo:
 
